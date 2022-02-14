@@ -1,1 +1,1 @@
-# javascript-from-zero
+# Javascript
